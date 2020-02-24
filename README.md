@@ -1,2 +1,1 @@
 # AlexAnYang.github.io
-mylog
