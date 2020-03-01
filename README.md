@@ -15,14 +15,6 @@ footer: Apache License 2.0 | © 2018-2020 ourLang
 ## 感谢有你
 感谢各位默默支持我的小伙伴，你们的支持就是我前进的动力。千言万语就一句：感恩有你，感谢有你！
 <html>
-<head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <script type="text/javascript" src="/js/jquery-3.2.1.min.js"></script>
-    <script type="text/javascript" src="/js/moneypay.js"></script>
-    <title>打赏</title>
-   <link rel="stylesheet" type="text/css"  href="/css/money.css" > 
-</head>
-
 <body>
 
 <div class="content" style="margin:0px auto;" >
