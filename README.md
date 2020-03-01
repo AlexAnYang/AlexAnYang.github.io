@@ -50,8 +50,7 @@ footer: Apache License 2.0 | © 2018-2020 ourLang
     	</div>
     	<div class="shang_info">
     		<p>打开<span id="shang_pay_txt">支付宝</span>扫一扫，即可进行扫码打赏哦</p>
-    		<p>Powered by <a href="http://www.havew.com" target="_blank" title="福小林">福小林</a>，分享从这里开始，精彩与您同在</p>
-    	</div>
+    		    	</div>
     </div>
   </div>
  
